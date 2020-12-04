@@ -1,4 +1,5 @@
-// JavaScript source code
+
+const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
 function ChromaSDK() {
     var uri;
@@ -176,3 +177,5 @@ ChromaSDK.prototype = {
         console.log('deleteEffectGroup() returns ' + JSON.parse(request.responseText));
     }
 }
+
+exports.ChromaSDK = ChromaSDK;
