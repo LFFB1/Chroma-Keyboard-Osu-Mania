@@ -1,16 +1,23 @@
 {
-    "name": "chromakeyboardosumania",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "dependencies": {
-      "@funniray/osu-parser": "^1.0.0"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "LFFB",
-    "license": "ISC"
-  }
-  
+  "name": "chromakeyboardosumania",
+  "version": "0.0.1",
+  "description": "A web page to allow you to play Osu Mania on your Chroma Keyboard",
+  "main": "index.js",
+  "dependencies": {
+    "osu-parser": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LFFB",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LFFB1/Chroma-Keyboard-Osu-Mania.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LFFB1/Chroma-Keyboard-Osu-Mania/issues"
+  },
+  "homepage": "https://github.com/LFFB1/Chroma-Keyboard-Osu-Mania#readme"
+}
