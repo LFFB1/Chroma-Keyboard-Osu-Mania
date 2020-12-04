@@ -1,4 +1,4 @@
 
-const Parser = require("@funniray/osu-parser")
+import Parser from "@funniray/osu-parser"
 
 console.log("all ok")
