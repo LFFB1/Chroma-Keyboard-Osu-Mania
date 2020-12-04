@@ -1,4 +1,4 @@
 
-const Parser = require("@funniray/osu-parser")
+const Parser = require("osu-parser")
 
 console.log("all ok")
