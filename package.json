@@ -2,7 +2,7 @@
     "name": "chromakeyboardosumania",
     "version": "0.0.1",
     "description": "",
-    "main": "index.html",
+    "main": "index.js",
     "dependencies": {
       "@funniray/osu-parser": "^1.0.0"
     },
