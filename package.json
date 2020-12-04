@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.html",
     "dependencies": {
-      "@funniray/osu-beatmap-api": "^1.0.0"
+      "@funniray/osu-parser": "^1.0.0"
     },
     "devDependencies": {},
     "scripts": {
